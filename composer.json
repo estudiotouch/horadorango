@@ -1,0 +1,14 @@
+{
+    "name": "touch/horadorango",
+    "authors": [
+        {
+            "name": "Luiz Gustavo Martins",
+            "email": "lgustavoms@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HoraDoRango\\": "lib/"
+        }
+    }
+}
